@@ -1,0 +1,2 @@
+# firman
+script nembak cwek
